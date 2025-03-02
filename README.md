@@ -2,16 +2,16 @@
 
 ESBuild plugin for assets copy.
 
--   [`Author`](HTTPS://GitHub.Com/linbudu599)
--   [`GitHub Repo`](HTTPS://GitHub.Com/LinbuduLab/esbuild-plugins/tree/master/packages/@playform/copy#readme)
--   [`Changelog`](HTTPS://GitHub.Com/LinbuduLab/esbuild-plugins/blob/main/packages/@playform/copy/CHANGELOG.md)
+- [`Author`](HTTPS://GitHub.Com/linbudu599)
+- [`GitHub Repo`](HTTPS://GitHub.Com/LinbuduLab/esbuild-plugins/tree/master/packages/@playform/copy#readme)
+- [`Changelog`](HTTPS://GitHub.Com/LinbuduLab/esbuild-plugins/blob/main/packages/@playform/copy/CHANGELOG.md)
 
 ## Feature
 
--   Keep copied assets file structure
--   Control assets destination path freely
--   Support verbose output log
--   Run only once or only when assets changed
+- Keep copied assets file structure
+- Control assets destination path freely
+- Support verbose output log
+- Run only once or only when assets changed
 
 ## Installation 🚀
 
@@ -22,8 +22,8 @@ npm install -D -E @playform/copy
 ## 🛠️ Usage
 
 ```ts
-import { build } from "esbuild";
 import { copy } from "@playform/copy";
+import { build } from "esbuild";
 
 (async () => {
 	const res = await build({
