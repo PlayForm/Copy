@@ -2,9 +2,9 @@
 
 ESBuild plugin for assets copy.
 
-- [`Author`](HTTPS://GitHub.Com/linbudu599)
-- [`GitHub Repo`](HTTPS://GitHub.Com/LinbuduLab/esbuild-plugins/tree/master/packages/@playform/copy#readme)
-- [`Changelog`](HTTPS://GitHub.Com/LinbuduLab/esbuild-plugins/blob/main/packages/@playform/copy/CHANGELOG.md)
+- [`Author`](https://GitHub.Com/linbudu599)
+- [`GitHub Repo`](https://GitHub.Com/LinbuduLab/esbuild-plugins/tree/master/packages/@playform/copy#readme)
+- [`Changelog`](https://GitHub.Com/LinbuduLab/esbuild-plugins/blob/main/packages/@playform/copy/CHANGELOG.md)
 
 ## Feature
 
@@ -193,7 +193,7 @@ export interface Options {
 }
 ```
 
-[Copy]: HTTPS://NPMJS.Org/@playform/copy
+[Copy]: https://NPMJS.Org/@playform/copy
 
 ## Changelog
 

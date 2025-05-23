@@ -9,9 +9,9 @@
 		"copy",
 		"playform"
 	],
-	"homepage": "HTTPS://GitHub.Com/PlayForm/Copy#readme",
+	"homepage": "https://GitHub.Com/PlayForm/Copy#readme",
 	"bugs": {
-		"url": "HTTPS://GitHub.Com/PlayForm/Copy/issues"
+		"url": "https://GitHub.Com/PlayForm/Copy/issues"
 	},
 	"repository": {
 		"type": "git",
@@ -21,7 +21,7 @@
 	"author": {
 		"name": "Source ✍🏻 Open 👐🏻",
 		"email": "Source/Open@PlayForm.Cloud",
-		"url": "HTTPS://PlayForm.Cloud"
+		"url": "https://PlayForm.Cloud"
 	},
 	"type": "module",
 	"main": "./Target/Function/Copy.js",
